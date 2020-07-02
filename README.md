@@ -81,33 +81,33 @@ $ yarn start ou npm start
 ## :clipboard: Estrutura
 ```
 Frontend
-|-- node_modules
-|-- package.json
-|-- .gitignore
-|-- public
-|   |-- index.html
-|-- src
-    |-- assets
-    |   |-- unknown.jpg
-    |-- pages
-    |   |-- 404
-    |   |   |-- index.js
-    |   |   |-- styles.css
-    |   |-- Home
-    |   |   |-- index.js
-    |   |   |-- styles.css
-    |   |- Profile
-    |   |   |-- index.js
-    |   |   |-- styles.css
-    |   |-- Repositorios
-    |       |-- index.js
-    |       |-- styles.css
-    |-- services
-    |   |-- api.js
-    |-- App.css
-    |-- App.js
-    |-- index.js
-    |-- routes.js
+├── node_modules
+├── package.json
+├── .gitignore
+├── public
+|   └── index.html
+└── src
+    ├── assets
+    |   └── unknown.jpg
+    ├── pages
+    |   ├── 404
+    |   |   ├── index.js
+    |   |   └── styles.css
+    |   ├── Home
+    |   |   ├── index.js
+    |   |   └── styles.css
+    |   ├── Profile
+    |   |   ├── index.js
+    |   |   └── styles.css
+    |   └── Repositorios
+    |       ├── index.js
+    |       └── styles.css
+    ├── services
+    |   └── api.js
+    ├── App.css
+    ├── App.js
+    ├── index.js
+    └── routes.js
     
 ```
 ---
