@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/github/repo-size/JS-RProjects/GithubStats-Backend?label=backend%20size">
     <img src="https://img.shields.io/github/repo-size/JS-RProjects/GithubStats-Frontend?label=frontend%20size">
     <img src="https://img.shields.io/badge/nodejs-14.2.0-green">
+</p>
+<p align="center">
     <a href="https://insomnia.rest/run/?label=GithubStats&uri=https://raw.githubusercontent.com/JS-RProjects/GithubStats/master/Insomnia_2020-07-01.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
