@@ -1,18 +1,18 @@
-<h1 align="center">Empregos++;</h1>
+<h1 align="center">Github Stats</h1>
 
 <p align="center">
-    <a href="https://empregos.herokuapp.com"><img src="https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fempregos.herokuapp.com%2F"></a>
+    <a href="https://githubstatss.herokuapp.com"><img src="https://img.shields.io/website?down_color=red&url=https%3A%2F%2Fempregos.herokuapp.com%2F"></a>
     <a href="https://discord.gg/v5d3PZ9"><img src="https://img.shields.io/discord/704882848364101763"></a>
-    <img src="https://img.shields.io/github/repo-size/JS-RProjects/Empregos-Backend?label=backend%20size">
-    <img src="https://img.shields.io/github/repo-size/JS-RProjects/Empregos-Frontend?label=frontend%20size">
+    <img src="https://img.shields.io/github/repo-size/JS-RProjects/GithubStats-Backend?label=backend%20size">
+    <img src="https://img.shields.io/github/repo-size/JS-RProjects/GithubStats-Frontend?label=frontend%20size">
     <img src="https://img.shields.io/badge/nodejs-14.2.0-green">
 </p>
 
 ## :bar_chart: Projeto
-Plataforma de busca para vagas de emprego desenvolvida em **Node.js** e **ReactJS**.
+Aplicação desenvolvida em **Node.js** e **ReactJS** usando a API do Github para conseguir informações sobre usuários e repositórios.
 
-**[Backend](https://github.com/JS-RProjects/Empregos-Backend/tree/master)**                                                                   
-**[Frontend](https://github.com/JS-RProjects/Empregos-Frontend/tree/master)**
+**[Backend](https://github.com/JS-RProjects/GithubStats-Backend/tree/master)**                                                                   
+**[Frontend](https://github.com/JS-RProjects/GithubStats-Frontend/tree/master)**
 
 ---
 
